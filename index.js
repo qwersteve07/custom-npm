@@ -1,4 +1,4 @@
-const button = require('./button');
+const button = require('./src/button');
 
 let customNpm = {};
 customNpm.button = button;
