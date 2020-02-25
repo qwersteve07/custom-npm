@@ -1,0 +1,48 @@
+// color
+$c-white: #ffffff;
+$c-red: #ec2929;
+$c-orange: #ff6323;
+$c-blue: #225bff;
+$c-urquoise-blue: #0ac3c3;
+$c-light-blue: #007aff;
+$c-light-blue-hover: #0064ff;
+$c-blue-disabled: rgba(#007aff, 0.7);
+$c-white-blue: #eef4fa;
+$c-white-blue2: #dfeeff;
+$c-green: #16ce70;
+$c-green1: #36c455;
+$c-light-green: #5affd3;
+$c-light-green2: #00d7b2;
+$c-light-green3: #1fce6d;
+$c-low-green: #1cd58e;
+$c-low-green-hover: #1acc88;
+$c-white-green: #e1fff6;
+$c-orange: #ff7e00;
+$c-yellow: #fff800;
+$c-dark-yellow: #ffa818;
+$c-title: #111;
+$c-title-disable: rgba(#111111, 0.7);
+$c-text: #3c3c3c;
+$c-note: #999;
+$c-gray: #f9f9f9;
+$c-warm-grey: #999;
+$c-light-grey: #efefef;
+$c-light-grey2: #f3f5f7;
+$c-light-grey3: #f5f5f5;
+$c-light-grey4: #c0c0c0;
+$c-light-grey5: #d8d8d8;
+$c-black: #111;
+
+//background-color
+$bgc-hover-depotCard: rgba($c-light-blue, 0.05);
+
+// border radius
+$br-normal: 10px;
+
+// shadow
+$bs-normal: rgba(0, 0, 0, 0.2) 0 2px 10px;
+
+// font-size
+$font-size-note: 14px;
+$font-size-desktop-content: 18px;
+$font-size-mobile-content: 16px;
